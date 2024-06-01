@@ -7,4 +7,4 @@ MOD DEPENDENCIES - KotOR Weapons & Armor
 - Royalty DLC
 - ModularWeapons: https://steamcommunity.com/sharedfiles/filedetails/?id=2878204522
 - AthenaFramework: https://github.com/SmArtKar/AthenaFramework
-- Star Wars KotOR Resources & Materials (Core): https://steamcommunity.com/sharedfiles/filedetails/?id=325437094
+- Star Wars KotOR Resources & Materials (Core): https://github.com/guy1762/1.5ZIP_StarWarsKotORCore OR https://steamcommunity.com/sharedfiles/filedetails/?id=325437094
